@@ -1,0 +1,1 @@
+const regex=/(?:foo)111/;console.log(regex.test("sdfds111"));
